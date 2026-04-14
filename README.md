@@ -30,7 +30,7 @@ git clone https://github.com/seu-usuario/nome-do-repositorio.git
 Execute o script principal:
 
 Bash
-python main.py
+python analisador_texto.ipynb
 Exemplo de Saída
 Para o texto: "Olá mundo! Este é um teste. Olá novamente."
 
